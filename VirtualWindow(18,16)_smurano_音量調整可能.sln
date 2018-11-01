@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualWindow(18,16)_smurano_音量調整可能.Plugins", "VirtualWindow(18,16)_smurano_音量調整可能.Plugins.csproj", "{B47BBCDB-FD66-5F26-EA0A-3483FBFB7A91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualWindow(18,16)_smurano_音量調整可能", "VirtualWindow(18,16)_smurano_音量調整可能.csproj", "{55A93C0D-06D9-6837-7D5D-A602F12D6030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B47BBCDB-FD66-5F26-EA0A-3483FBFB7A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47BBCDB-FD66-5F26-EA0A-3483FBFB7A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47BBCDB-FD66-5F26-EA0A-3483FBFB7A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47BBCDB-FD66-5F26-EA0A-3483FBFB7A91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A93C0D-06D9-6837-7D5D-A602F12D6030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A93C0D-06D9-6837-7D5D-A602F12D6030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A93C0D-06D9-6837-7D5D-A602F12D6030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A93C0D-06D9-6837-7D5D-A602F12D6030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
